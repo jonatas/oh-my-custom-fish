@@ -1,10 +1,6 @@
 
-export RDMAIL=jonatas.paganini@resultadosdigitais.com.br
 
 alias bi "bundle install"
 alias ni "npm install"
 alias be "bundle exec"
-alias asp "cd ~/Code/aspect; git status"
-alias rd "cd ~/Code/rdstation; git status"
-alias eu "echo 'eu = User.find_by(email: \'$RDMAIL\')' | pbcopy"
 alias gg "git push origin master"
